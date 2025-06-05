@@ -7,6 +7,6 @@ Although Detrended Price Oscillator is meant to give buy and sell signals when i
 ![Detrended Price Oscillator is showing several divergences on EUR/USD chart](https://github.com/EarnForex/Detrended-Price-Oscillator/blob/main/README_Images/detrended-price-oscillator-mt5-eurusd-example.png)
 
 More information about this custom MetaTrader indicator is available here:
-https://www.earnforex.com/metatrader-indicators/DetrendedPriceOscillator/
+https://www.earnforex.com/indicators/DetrendedPriceOscillator/
 
 Any contributions to the code are welcome!
